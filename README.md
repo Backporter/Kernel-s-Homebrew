@@ -41,8 +41,8 @@ it does boot to a black-screen and there is no user input or menues, so keep tha
 =======Credits=======
 
 Thanks:
-- [zecoxao] (https://github.com/zecoxao) - For his fork of PS4_UnjailPlugin_Unity_NativeCode
-- [SocraticBliss] (https://github.com/SocraticBliss)
+- [zecoxao](https://github.com/zecoxao) - For his fork of PS4_UnjailPlugin_Unity_NativeCode
+- [SocraticBliss](https://github.com/SocraticBliss)
 - samsepi
-- [lampy] (https://github.com/Lapy055)
-- [AlAzif] (https://github.com/Al-Azif)
+- [lampy](https://github.com/Lapy055)
+- [AlAzif](https://github.com/Al-Azif)
