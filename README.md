@@ -44,5 +44,5 @@ Thanks:
 - [zecoxao](https://github.com/zecoxao) - For his fork of PS4_UnjailPlugin_Unity_NativeCode
 - [SocraticBliss](https://github.com/SocraticBliss)
 - samsepi
-- [lampy](https://github.com/Lapy055)
+- [Lapy](https://github.com/Lapy055)
 - [AlAzif](https://github.com/Al-Azif)
