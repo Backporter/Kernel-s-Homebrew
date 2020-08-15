@@ -30,6 +30,7 @@ so what this does is it creates an FOLDER with the same name so when the system 
 once it does that it calls std::cin.get(); to pervent the app from returning so it does not crash.
 
 =======Notes=======
+
 It uses Retail offsets so it will only work on Retail(maybe testkit though im not sure)
 
 If a update files does exists, you need to remove it, either by FTP or by deleteing it in the playstation menu.
@@ -37,6 +38,8 @@ If a update files does exists, you need to remove it, either by FTP or by delete
 It does take a few seconds to do the porcess so give it 5 ish seconds and than you can close the app.
 
 it does boot to a black-screen and there is no user input or menues, so keep that in mind.
+
+This was not made in unity.
 
 =======Credits=======
 
