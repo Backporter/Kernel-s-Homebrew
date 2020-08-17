@@ -7,6 +7,12 @@ UP7985-CUSA79863_00-E0TG962ITXST0L6L-A0100-V0100.pkg ; PS4 Update Blocker Remove
 
 UP5678-CUSA56793_00-SIYVA5IIZT7JCWAG-A0100-V0100.pkg ; PS4 Update Blocker Installer ; MD5:e05294e8a464131772e12ad30a06ec01
 
+UP4102-CUSA41028_00-UIGM2D10K9JMCG25-A0100-V0100.pkg ; PS4 Update Blocker Remover 6.72 ; MD5:0e7dcf287c3a5f38d5d315e82c8c6032
+
+UP7841-CUSA78420_00-DFWM2CXWDPK0ED9Q-A0100-V0100.pkg ; PS4 Update Blocker Installer 6.72 ; MD5:a90c23943496a87d5f70e8046761d076
+
+ONLY INSTALL THE ONE FOR YOU SYSTEM VERSION
+
 =======Installation========
 
 *1: Put on a USB install via debug settings OR use Remote PKG Installer
@@ -15,7 +21,7 @@ UP5678-CUSA56793_00-SIYVA5IIZT7JCWAG-A0100-V0100.pkg ; PS4 Update Blocker Instal
 
 =======Compatabilty=======
 
-for the time being, 5.05 only;
+for the time being, 5.05 and 6.72 only;
 
 =======Usage=======
 
@@ -46,3 +52,4 @@ Thanks:
 - samsepi
 - [lampy](https://github.com/Lapy055)
 - [AlAzif](https://github.com/Al-Azif)
+- [AlberzH0fi](https://twitter.com/lukas_pedall) - for testing my 6.72 version
